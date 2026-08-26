@@ -9,10 +9,7 @@ export const botConfig = {
   // - "idle"      = yellow moon
   // - "dnd"       = red do-not-disturb
   // - "invisible" = appears offline
-  presence: {Your crimson-haired devil companion for Discord ❤️
-Here to serve the Gremory clan—and keep your server lively.
-
-“D-Don’t expect me to spoil you!”  
+  presence: {  
     // Current online state shown on Discord.
     status: "online",
 
